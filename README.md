@@ -8,19 +8,11 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-00D9FF?style=for-the-badge&logo=openjdk&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-0080FF?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-00D9FF?style=for-the-badge&logo=html5&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-0080FF?style=for-the-badge&logo=css3&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/MySQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-00D9FF?style=for-the-badge&logo=oracle&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0080FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-0080FF?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" height="50"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,oracle,postgresql,git,github,figma,vscode" height="50"/>
 
 </div>
 
@@ -30,21 +22,25 @@
 
 ## Sobre mim
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 <td>
 
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
-**Semestre:** 2º semestre
+**Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
+**Semestre:** 2º semestre  
 **Faculdade:** FIAP - Unidade Paulista, São Paulo/SP
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br>
 
-**Características**
+### Características
 
 - Facilidade para trabalhar em equipe e dividir tarefas em projetos acadêmicos
 - Raciocínio lógico aplicado à resolução de problemas de programação
@@ -60,12 +56,25 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=guimmalmd&show_icons=true&theme=dark&title_color=00D9FF&icon_color=1E90FF&text_color=FFFFFF&bg_color=0D1117&border_color=0080FF&hide_border=false" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guimmalmd&theme=dark&hide_border=false&background=0D1117&ring=00D9FF&fire=0080FF&currStreakLabel=00D9FF&border=0080FF" height="180"/>
+<table>
+<tr>
+<td>
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=guimmalmd&show_icons=true&theme=dark&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_color=0080FF&hide_border=false&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimmalmd&layout=compact&theme=dark&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_color=0080FF&langs_count=8" height="220"/>
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=guimmalmd&show_icons=true&theme=dark&title_color=0080FF&icon_color=0080FF&text_color=FFFFFF&bg_color=0D1117&border_color=0080FF&hide_border=false&rank_icon=github" height="180"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimmalmd&layout=donut&theme=dark&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&border_color=0080FF&langs_count=6" height="220"/>
 
 </div>
 
@@ -73,11 +82,31 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:0080FF,100:1E90FF&height=4&width=100%"/>
 
+## Contato
+
 <div align="center">
 
-<!--START_SECTION:waving-snake-->
-<img src="https://raw.githubusercontent.com/guimmalmd/guimmalmd/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-<!--END_SECTION:waving-snake-->
+<a href="https://www.linkedin.com/in/guimmalmeida/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/gui.almd__/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,50:0080FF,100:00D9FF&height=4&width=100%"/>
+
+## Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/guimmalmd/guimmalmd/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
