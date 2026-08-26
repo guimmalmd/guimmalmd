@@ -18,8 +18,8 @@
 <tr>
 <td align="center">
 
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS) |
-**Semestre:** 2º semestre |
+**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
+**Semestre:** 2º semestre
 **Faculdade:** FIAP - Unidade Paulista, São Paulo/SP
 
 </td>
@@ -53,6 +53,10 @@
 <h2>Estatísticas</h2>
 
 <img src="https://streak-stats.demolab.com/?user=guimmalmd&theme=dark&hide_border=false&background=0D1117&ring=0080FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=0080FF" height="195"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/guimmalmd/guimmalmd/profile-summary-cards/profile-languages.svg" width="480"/>
 
 <br><br>
 
