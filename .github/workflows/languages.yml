@@ -11,11 +11,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Generate language card
-        uses: vn7n24fzkq5d/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          user: guimmalmd
-          theme: github_dark
+          USERNAME: guimmalmd
+          BRANCH_NAME: "main"
+          UTC_OFFSET: -3
