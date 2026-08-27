@@ -28,6 +28,8 @@
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:0080FF,100:1E90FF&height=4&width=100%" width="100%"/>
+
 <h3>Características</h3>
 
 <table>
