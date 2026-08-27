@@ -18,8 +18,8 @@
 <tr>
 <td align="center">
 
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
-**Semestre:** 2º semestre
+**Curso:** Análise e Desenvolvimento de Sistemas (ADS) |
+**Semestre:** 2º semestre |
 **Faculdade:** FIAP - Unidade Paulista, São Paulo/SP
 
 </td>
