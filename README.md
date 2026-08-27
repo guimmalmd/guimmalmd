@@ -52,16 +52,9 @@
 
 <h2>Estatísticas</h2>
 
-<img src="https://streak-stats.demolab.com/?user=guimmalmd&theme=dark&hide_border=false&background=0D1117&ring=0080FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=0080FF" height="195"/>
+![](https://raw.githubusercontent.com/guimmalmd/guimmalmd/main/profile-summary-card-output/transparent/0-profile-details.svg)
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/guimmalmd/guimmalmd/profile-summary-cards/profile-languages.svg" width="480"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:0080FF,100:1E90FF&height=4&width=100%" width="100%"/>
-
+![](https://raw.githubusercontent.com/guimmalmd/guimmalmd/main/profile-summary-card-output/transparent/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/guimmalmd/guimmalmd/main/profile-summary-card-output/transparent/3-stats.svg)
 <br>
 
 <h2>Contato</h2>
