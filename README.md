@@ -59,6 +59,8 @@
 ![](https://raw.githubusercontent.com/guimmalmd/guimmalmd/main/profile-summary-card-output/transparent/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/guimmalmd/guimmalmd/main/profile-summary-card-output/transparent/3-stats.svg)
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:0080FF,100:1E90FF&height=4&width=100%" width="100%"/>
+
 <h2>Contato</h2>
 
 <table>
