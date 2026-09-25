@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,postgresql,git,github,figma,vscode" height="55"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,tailwind,html,css,mysql,postgresql,git,github,figma,vscode" height="55"/>
 
 <br><br>
 
